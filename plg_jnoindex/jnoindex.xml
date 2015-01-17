@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="content">
+	<name>Content - jnoindex</name>
+	<author>No</author>
+	<creationDate>2011</creationDate>
+	<copyright>No</copyright>
+	<license>No</license>
+	<authorEmail>No</authorEmail>
+	<authorUrl>No</authorUrl>
+	<version>1.5</version>
+	<description>Content - jnoindex</description>
+	<files>
+		<filename plugin="jnoindex">jnoindex.php</filename>
+	</files>
+</install>
